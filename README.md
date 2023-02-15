@@ -39,6 +39,9 @@ To use locally, clone the repository, install dependencies, run using webpack's 
 ```javascript
 npm i
 npm run dev
+or
+cnpm i
+cnpm run dev
 ```
 
 ## License
